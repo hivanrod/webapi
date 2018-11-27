@@ -1,0 +1,11 @@
+C:\Users\IvanGuillermo\Source\Repos\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.0\WebApiPaises.deps.json
+C:\Users\IvanGuillermo\Source\Repos\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.0\WebApiPaises.runtimeconfig.json
+C:\Users\IvanGuillermo\Source\Repos\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.0\WebApiPaises.runtimeconfig.dev.json
+C:\Users\IvanGuillermo\Source\Repos\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.0\WebApiPaises.dll
+C:\Users\IvanGuillermo\Source\Repos\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.0\WebApiPaises.pdb
+C:\Users\IvanGuillermo\Source\Repos\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.0\WebApiPaises.csproj.CoreCompileInputs.cache
+C:\Users\IvanGuillermo\Source\Repos\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.0\WebApiPaises.AssemblyInfoInputs.cache
+C:\Users\IvanGuillermo\Source\Repos\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.0\WebApiPaises.AssemblyInfo.cs
+C:\Users\IvanGuillermo\Source\Repos\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.0\WebApiPaises.dll
+C:\Users\IvanGuillermo\Source\Repos\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.0\WebApiPaises.pdb
+C:\Users\IvanGuillermo\Source\Repos\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.0\WebApiPaises.csprojAssemblyReference.cache
